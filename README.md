@@ -1,6 +1,7 @@
 # bootstrap4-pure-theme
 
 A demo Bootstrap 4 theme created purely from bootstrap CSS.
+In progress...follow this repo for updates
 
 ### Colors:
 ```
